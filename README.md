@@ -491,10 +491,6 @@ Do not use this tool to track people, vehicles, or devices without clear authori
 
 ## License
 
-Add your preferred license before publishing.
-
-Example:
-
 ```text
 MIT License
 ```
